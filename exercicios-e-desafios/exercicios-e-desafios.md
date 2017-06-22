@@ -2,7 +2,7 @@
 
 Abaixo estão os desafios seguindo a ordem de assuntos abordados. Para ter uma avaliação do seu código, você pode submetê-los no site do [Hackerrank](https://www.hackerrank.com). Os links dos devidos exercícios também estarão listados abaixo.
 
-###Exercícios
+####Exercícios
 1. Utilização do `print`: [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world) __(5 pts)__
 2. Operações aritméticas: [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) __(10 pts)__
 3. Diferenças na operção de divisão entre Python 2 e Python 3: [Python: Division](https://www.hackerrank.com/challenges/python-division) __(10 pts)__
@@ -17,7 +17,7 @@ Abaixo estão os desafios seguindo a ordem de assuntos abordados. Para ter uma a
 12. Manipulação de conjuntos: [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) __(10 pts)__
 13. Uso de mapas e funções lambda: [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression) __(20 pts)__
 
-###Desafios
+####Desafios
 1. Funções: [Reduce Function](https://www.hackerrank.com/challenges/reduce-function) __(45 pts)__
 2. Manipulação de Strings nível você vai odiar os Minions a partir de agora     : [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) __(100 pts)__
 3. Manipulação de números nível triângulo do capiroto: [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2) __(80 pts)__
