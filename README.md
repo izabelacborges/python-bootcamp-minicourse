@@ -9,6 +9,15 @@ Se você está acompanhando o minicurso nesse momento você deve visualizar o sl
 
 Se você achou esse repositório por acaso, você pode acessar os slides [por aqui](http://slides.com/izabelacb/pysummercamppuc#/).
 
+### Instalação
+Para instalar e configurar o seu ambiente de testes automatizados em Python, você deve seguir o manual de instalação segundo seu sistema operacional:
+* Mac OS Sierra / OS X: [`install-macos.md`](https://github.com/belacb/python-bootcamp-minicourse/blob/master/setup-install/install-macos.md)
+* Linux Ubuntu: [`install-linux.md`](https://github.com/belacb/python-bootcamp-minicourse/blob/master/setup-install/install-linux.md)
+* Windows: [`install-win.md`](https://github.com/belacb/python-bootcamp-minicourse/blob/master/setup-install/install-win.md)
+
+
+Se você quiser saber mais sobre Python, visite o [The Hitchhiker's Guide to Python](https://github.com/kennethreitz/python-guide).
+
 ### Exercícios e mini-hackathon
 Se você está participando do minicurso durante a Escola de Férias do ICEI, faça uma conta no [Hackerrank](https://www.hackerrank.com/signup) com o seu e-mail da PUC Minas (`@sga.pucminas.br`) e se inscreva na turma/competição deste minicurso clicando [aqui](https://www.hackerrank.com/python-bootcamp-5-escola-de-ferias).
 
