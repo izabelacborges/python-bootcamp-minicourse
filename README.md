@@ -5,9 +5,9 @@ Este repositório compreende os materiais utilizados ao ministrar o minicurso de
 > Além de mini-exercícios para fixação de cada módulo aprendido, teremos um mini-hackaton ao final do minicurso :)
 
 ### Slides
-Se você está acompanhando o minicurso nesse momento você deve visualizar o slide clicando [aqui](https://slides.com/izabelacborges/pysummercamppuc/live#/).
+Se você está acompanhando o minicurso nesse momento você deve visualizar o slide clicando [aqui](https://slides.com/izabelacb/pysummercamppuc/live#/).
 
-Se você achou esse repositório por acaso, você pode acessar os slides [por aqui](http://slides.com/izabelacborges/pysummercamppuc#/).
+Se você achou esse repositório por acaso, você pode acessar os slides [por aqui](http://slides.com/izabelacb/pysummercamppuc#/).
 
 ### Instalação
 Para instalar e configurar o seu ambiente de testes automatizados em Python, você deve seguir o manual de instalação segundo seu sistema operacional:
