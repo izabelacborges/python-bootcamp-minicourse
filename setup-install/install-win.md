@@ -10,7 +10,7 @@ Porém duas alternativas são:
 ### Clonando o repositório
 No terminal, navegue até o diretório em que você deseja que fique o projeto e clone o repositório com:
 ```shell
-    git clone https://github.com/belacb/python-bootcamp-minicourse.git
+    git clone https://github.com/izabelacborges/python-bootcamp-minicourse.git
 ```
 E instale as dependencias com `pip install -r requirements.txt` dentro do ambiente virtual.
 
