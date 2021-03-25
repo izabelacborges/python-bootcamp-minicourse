@@ -31,7 +31,7 @@ pyflakes==1.5.0
 Pygments==2.2.0
 pyparsing==2.2.0
 python-dateutil==2.6.0
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 qtconsole==4.3.0
 simplegeneric==0.8.1
